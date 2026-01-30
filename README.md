@@ -1,7 +1,6 @@
 <h3 align="center">Hi, I'm Gabriel Natter 👋</h3>
 
 <p align="center">
-  <a>Website (soon)</a> •
   <a href="https://www.linkedin.com/in/nattergabriel/">LinkedIn</a> •
   <a href="https://twitter.com/eterdev">X</a>
 </p>
