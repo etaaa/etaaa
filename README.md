@@ -1,4 +1,14 @@
-## Hi there 👋
+<h3 align="center">👋 Hi, I'm Gabriel Natter</h3>
+
+<p align="center">
+  <!--<a href="https://nattergabriel.com">Website</a> •-->
+  <a href="https://www.linkedin.com/in/nattergabriel/">LinkedIn</a> •
+  <a href="https://twitter.com/eterdev">X</a>
+</p>
+
+---
+
+Computer science student @ TU Wien with specialization in AI & ML. Dedicated to building with AI Agents, RAG, and MCP. Passionate about creating intelligent systems that do more than just chat.
 
 <!--
 **etaaa/etaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
