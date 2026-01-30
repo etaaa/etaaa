@@ -1,7 +1,7 @@
-<h3 align="center">👋 Hi, I'm Gabriel Natter</h3>
+<h3 align="center">Hi, I'm Gabriel Natter 👋</h3>
 
 <p align="center">
-  <!--<a href="https://nattergabriel.com">Website</a> •-->
+  <a>Website (soon)</a> •
   <a href="https://www.linkedin.com/in/nattergabriel/">LinkedIn</a> •
   <a href="https://twitter.com/eterdev">X</a>
 </p>
